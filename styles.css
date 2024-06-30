@@ -1,5 +1,10 @@
 /*  your css code here. If applicable */
-
-.card {
-        border-radius: 0.75rem;
-      }
+.card-img-top {
+            cursor: pointer;
+        }
+        .card {
+            border-radius: 15px;
+        }
+        .card h6, .card p {
+            text-align: center;
+        }
